@@ -1,0 +1,177 @@
+[
+  {
+    "subscription_id": "SUB001",
+    "user_id": "U001",
+    "plan_id": "free",
+    "event_type": "signup",
+    "event_date": "2024-01-15"
+  },
+  {
+    "subscription_id": "SUB002",
+    "user_id": "U001",
+    "plan_id": "pro",
+    "event_type": "upgrade",
+    "event_date": "2024-02-01"
+  },
+  {
+    "subscription_id": "SUB003",
+    "user_id": "U002",
+    "plan_id": "enterprise",
+    "event_type": "signup",
+    "event_date": "2024-01-20"
+  },
+  {
+    "subscription_id": "SUB004",
+    "user_id": "U003",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-02-01"
+  },
+  {
+    "subscription_id": "SUB005",
+    "user_id": "U004",
+    "plan_id": "free",
+    "event_type": "signup",
+    "event_date": "2024-02-10"
+  },
+  {
+    "subscription_id": "SUB006",
+    "user_id": "U004",
+    "plan_id": "pro",
+    "event_type": "upgrade",
+    "event_date": "2024-03-15"
+  },
+  {
+    "subscription_id": "SUB007",
+    "user_id": "U005",
+    "plan_id": "enterprise",
+    "event_type": "signup",
+    "event_date": "2024-02-15"
+  },
+  {
+    "subscription_id": "SUB008",
+    "user_id": "U006",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-03-01"
+  },
+  {
+    "subscription_id": "SUB009",
+    "user_id": "U007",
+    "plan_id": "free",
+    "event_type": "signup",
+    "event_date": "2024-03-10"
+  },
+  {
+    "subscription_id": "SUB010",
+    "user_id": "U008",
+    "plan_id": "enterprise",
+    "event_type": "signup",
+    "event_date": "2024-03-20"
+  },
+  {
+    "subscription_id": "SUB011",
+    "user_id": "U009",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-04-01"
+  },
+  {
+    "subscription_id": "SUB012",
+    "user_id": "U010",
+    "plan_id": "enterprise",
+    "event_type": "signup",
+    "event_date": "2024-04-15"
+  },
+  {
+    "subscription_id": "SUB013",
+    "user_id": "U003",
+    "plan_id": "free",
+    "event_type": "downgrade",
+    "event_date": "2024-05-01"
+  },
+  {
+    "subscription_id": "SUB014",
+    "user_id": "U011",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-05-01"
+  },
+  {
+    "subscription_id": "SUB015",
+    "user_id": "U012",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-05-10"
+  },
+  {
+    "subscription_id": "SUB016",
+    "user_id": "U013",
+    "plan_id": "free",
+    "event_type": "signup",
+    "event_date": "2024-06-01"
+  },
+  {
+    "subscription_id": "SUB017",
+    "user_id": "U014",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-06-15"
+  },
+  {
+    "subscription_id": "SUB018",
+    "user_id": "U007",
+    "plan_id": "free",
+    "event_type": "cancel",
+    "event_date": "2024-07-01"
+  },
+  {
+    "subscription_id": "SUB019",
+    "user_id": "U015",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-07-01"
+  },
+  {
+    "subscription_id": "SUB020",
+    "user_id": "U016",
+    "plan_id": "enterprise",
+    "event_type": "signup",
+    "event_date": "2024-07-20"
+  },
+  {
+    "subscription_id": "SUB021",
+    "user_id": "U017",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-08-01"
+  },
+  {
+    "subscription_id": "SUB022",
+    "user_id": "U018",
+    "plan_id": "free",
+    "event_type": "signup",
+    "event_date": "2024-08-15"
+  },
+  {
+    "subscription_id": "SUB023",
+    "user_id": "U018",
+    "plan_id": "pro",
+    "event_type": "upgrade",
+    "event_date": "2024-09-01"
+  },
+  {
+    "subscription_id": "SUB024",
+    "user_id": "U019",
+    "plan_id": "enterprise",
+    "event_type": "signup",
+    "event_date": "2024-09-01"
+  },
+  {
+    "subscription_id": "SUB025",
+    "user_id": "U020",
+    "plan_id": "pro",
+    "event_type": "signup",
+    "event_date": "2024-09-15"
+  }
+]
